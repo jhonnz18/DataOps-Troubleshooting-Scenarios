@@ -1,0 +1,7 @@
+transaction_id,agent_name,status,handle_time_sec
+101,  jhonnier zambrano ,completed,320
+102,MARIA PEREZ,PENDING_,-15
+,carlos gomez,failed!,450
+104,,COMPLETED,210
+105,ana rojas,pending,-5
+106,  pedro perez ,FAILED,510
